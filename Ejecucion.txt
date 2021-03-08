@@ -1,0 +1,15 @@
+Para ejecucion del programa es necesario segir los siguientes pasos:
+
+1) Dirigirse a la carpeta "docs" y descomprimir el archivo .csv
+
+2) Cambiarle el nombre al documento .csv por "COVID19MEXICO".
+
+3) Abrir el notebook y ejecutar cada casilla en su orden, de esta manera 
+   se obtendran los registro correspondientes.
+
+Notas:
+
+a) No se borraron los documentos .csv para los mapas en R. Para su ejecucion
+   solo es necesario dirigirse a la carpeta de "R_Studio" y correlos en "R_Studio"
+
+b) En caso de correr el notebook, este tiene instrucciones mas concretas
